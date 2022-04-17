@@ -1,2 +1,2 @@
-# fit-vut-ios-proj1
-FIT VUT project no. 1: tradelog script
+# SEMAPHORES project
+FIT VUT IOS project no. 2: semaphores and elves
